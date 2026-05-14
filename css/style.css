@@ -111,7 +111,7 @@ body {
     box-shadow: 0 0 0 0.3rem rgba(123, 225, 163, 0.4);
 }
 .btn-primary {
-    background-color: #10652a;
+    background-color: #29affd;
     border-color: #10652a;
 }
 .btn-primary:hover {
@@ -192,4 +192,7 @@ footer form .btn-primary:hover {
     border-color: #0d4a20;
     transform: translateY(-1px);
     box-shadow: 0 2px 8px rgba(16, 101, 42, 0.4);
+}
+py-5 my-4  {
+    color: #cccccc;
 }
